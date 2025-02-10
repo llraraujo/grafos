@@ -8,13 +8,13 @@ Este projeto em C# transforma uma grade de espaços em um grafo, onde os vértic
 
 ## Pré-requisitos
 
-- .NET SDK 6.0 ou superior
+- .NET SDK 8.0 ou superior
 
 ## Como Rodar o Programa
 
 1. Clone o repositório:
    ```
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/llraraujo/grafos.git
    cd seu-repositorio
    ```
 2. Compile o Projeto
